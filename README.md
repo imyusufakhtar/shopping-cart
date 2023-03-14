@@ -1,6 +1,6 @@
 # shopping-cart
 
-- The Shopping Cart website is an e-commerce platform that allows customers to browse and purchase products online:
+# The Shopping Cart website is an e-commerce platform that allows customers to browse and purchase products online:
 
     - The website provides customers with a platform to view products, read descriptions and reviews, and make a purchase using a shopping cart.
     - It provides businesses with a way to sell products online, reaching a wider customer base beyond their physical location.
